@@ -1,10 +1,6 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [CortexIDESetup-x64-1.106.00200](./CortexIDESetup-x64-1.106.00200)
 
 ---
 
